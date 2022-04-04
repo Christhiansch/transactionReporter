@@ -44,6 +44,19 @@ public class CassandraConnector {
     	session.execute(query);
     }
     
+    public void dropTable(String tableName) {
+    	StringBuilder sb = new StringBuilder("DROP TABLE IF NOT EXITS")
+    			.append(tableName).append(";");
+    	
+    	String query = sb.toString();
+    	session.execute(query);
+    }
+    
+    /**
+     * Use method when read JSON file
+     * @param model
+     * @param columnName
+     */
     public void insertDataProcessingCode(List<ProcessingCode> model, String columnName) {
     	
     	for (ProcessingCode processingCode : model) {
