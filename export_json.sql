@@ -1,0 +1,1 @@
+COPY ( SELECT json_agg(JSON) FROM (SELECT * FROM  CODIGO_OPERACION ORDER BY TIPO_OPERACION ASC ) AS JSON ) TO 'C:\csdevelopment\codigo_operacion.dat';
