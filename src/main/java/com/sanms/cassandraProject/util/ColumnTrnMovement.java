@@ -34,7 +34,7 @@ public class ColumnTrnMovement {
 		StringBuilder sb = new StringBuilder()
 				.append("(")
 				.append(CUSTOMER).append(" text, ")
-				.append(PAN).append(" text, ")
+				.append(PAN).append(" text PRIMARY KEY, ")
 				.append(TYPE_PAN).append(" text, ")
 				.append(PROCESS_CODE).append(" text, ")
 				.append(TERMINAL).append(" text, ")

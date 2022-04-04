@@ -9,7 +9,7 @@ public class ColumnProcessingCode {
 	public static String getQueryColumnsProcessingCode() {
 		StringBuilder sb = new StringBuilder()
 				.append("(")
-				.append(COD_OPERATION).append(" text, ")
+				.append(COD_OPERATION).append(" text PRIMARY KEY, ")
 				.append(DESC_OPERATION).append(" text, ")
 				.append(TYPE_OPERATION).append(" text")
 				.append(");");

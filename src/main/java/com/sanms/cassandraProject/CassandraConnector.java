@@ -12,6 +12,7 @@ public class CassandraConnector {
 	private Cluster cluster;
 
     private Session session;
+        
 
     public void connect(String node, Integer port) {
         Builder b = Cluster.builder().addContactPoint(node);
@@ -36,17 +37,17 @@ public class CassandraConnector {
     	session.execute(query);
     }
     
-    public void createTable(String tableName, String queryColumns){
-    	StringBuilder sb = new StringBuilder("CREATE TABLE IF NOT EXITS ")
-    			.append(tableName).append(queryColumns);
+    public void createTable(String keySpace, String tableName, String queryColumns){
+    	StringBuilder sb = new StringBuilder("CREATE TABLE IF NOT EXISTS ")
+    			.append(keySpace).append(".").append(tableName).append(queryColumns);
     	
     	String query = sb.toString();
     	session.execute(query);
     }
     
-    public void dropTable(String tableName) {
-    	StringBuilder sb = new StringBuilder("DROP TABLE IF NOT EXITS")
-    			.append(tableName).append(";");
+    public void dropTable(String keySpace, String tableName) {
+    	StringBuilder sb = new StringBuilder("DROP TABLE IF NOT EXISTS ")
+    			.append(keySpace).append(".").append(tableName).append(";");
     	
     	String query = sb.toString();
     	session.execute(query);
@@ -57,7 +58,7 @@ public class CassandraConnector {
      * @param model
      * @param columnName
      */
-    public void insertDataProcessingCode(List<ProcessingCode> model, String columnName) {
+    public void insertDataProcessingCode(String keySpace, List<ProcessingCode> model, String columnName) {
     	
     	for (ProcessingCode processingCode : model) {
     		StringBuilder sb = new StringBuilder("INSERT INTO ").append(columnName).append("(cod_operacion, desc_operacion, tipo_operacion)")

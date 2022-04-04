@@ -8,7 +8,7 @@ public class ColumnCoin {
 	public static String getQueryColumnsCoin() {
 		StringBuilder sb = new StringBuilder()
 				.append("(")
-				.append(NUMBER_COIN).append(" text, ")
+				.append(NUMBER_COIN).append(" text PRIMARY KEY, ")
 				.append(TYPE_COIN).append(" text")
 				.append(");");
 		
