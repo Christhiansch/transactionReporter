@@ -1,0 +1,30 @@
+
+ keyspace_name      | durable_writes | replication
+--------------------+----------------+-------------------------------------------------------------------------------------
+        system_auth |           True | {'class': 'org.apache.cassandra.locator.SimpleStrategy', 'replication_factor': '1'}
+      system_schema |           True |                             {'class': 'org.apache.cassandra.locator.LocalStrategy'}
+            library |           True | {'class': 'org.apache.cassandra.locator.SimpleStrategy', 'replication_factor': '1'}
+     tutorialspoint |           True | {'class': 'org.apache.cassandra.locator.SimpleStrategy', 'replication_factor': '3'}
+ system_distributed |           True | {'class': 'org.apache.cassandra.locator.SimpleStrategy', 'replication_factor': '3'}
+             system |           True |                             {'class': 'org.apache.cassandra.locator.LocalStrategy'}
+      system_traces |           True | {'class': 'org.apache.cassandra.locator.SimpleStrategy', 'replication_factor': '2'}
+
+(7 rows)
+
+ keyspace_name      | durable_writes | replication
+--------------------+----------------+---------------------------------------------------------------------------------------
+               test |          False | {'class': 'org.apache.cassandra.locator.NetworkTopologyStrategy', 'datacenter1': '3'}
+        system_auth |           True |   {'class': 'org.apache.cassandra.locator.SimpleStrategy', 'replication_factor': '1'}
+      system_schema |           True |                               {'class': 'org.apache.cassandra.locator.LocalStrategy'}
+            library |           True |   {'class': 'org.apache.cassandra.locator.SimpleStrategy', 'replication_factor': '1'}
+     tutorialspoint |           True |   {'class': 'org.apache.cassandra.locator.SimpleStrategy', 'replication_factor': '3'}
+ system_distributed |           True |   {'class': 'org.apache.cassandra.locator.SimpleStrategy', 'replication_factor': '3'}
+             system |           True |                               {'class': 'org.apache.cassandra.locator.LocalStrategy'}
+      system_traces |           True |   {'class': 'org.apache.cassandra.locator.SimpleStrategy', 'replication_factor': '2'}
+
+(8 rows)
+
+ emp_id | emp_city | emp_name | emp_phone | emp_sal
+--------+----------+----------+-----------+---------
+
+(0 rows)
