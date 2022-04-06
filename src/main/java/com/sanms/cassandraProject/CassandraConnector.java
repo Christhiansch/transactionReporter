@@ -58,17 +58,18 @@ public class CassandraConnector {
      * @param model
      * @param columnName
      */
-    public void insertDataProcessingCode(String keySpace, List<ProcessingCode> model, String columnName) {
+    public void insertDataProcessingCode(String keySpace, List<ProcessingCode> lstProcess, String columnName) {
     	
-    	for (ProcessingCode processingCode : model) {
-    		StringBuilder sb = new StringBuilder("INSERT INTO ").append(columnName).append("(cod_operacion, desc_operacion, tipo_operacion)")
-    				.append("VALUES ('").append(processingCode.getCod_operacion())
-    				.append("', '").append(processingCode.getDesc_operacion())
-    				.append("', '").append(processingCode.getTipo_operacion())
+    	for (ProcessingCode process : lstProcess) {
+    		StringBuilder sb = new StringBuilder("INSERT INTO ").append(keySpace).append(".").append(columnName).append("(cod_operacion, desc_operacion, tipo_operacion)")
+    				.append("VALUES ('").append(process.getCod_operacion())
+    				.append("', '").append(process.getDesc_operacion())
+    				.append("', '").append(process.getTipo_operacion())
     				.append("');");
     		
     		String query = sb.toString();
     		session.execute(query);
+    		System.out.println(process);
 		}
     }
 

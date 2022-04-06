@@ -1,0 +1,1252 @@
+[
+	{
+		"cod_operacion": "304600",
+		"desc_operacion": "CONFIRMA DATOS TELEFONO",
+		"tipo_operacion": "ACTUALIZACION DE DATOS"
+	},
+	{
+		"cod_operacion": "304400",
+		"desc_operacion": "CONSULTA ACTUALIZACION DE DATOS",
+		"tipo_operacion": "ACTUALIZACION DE DATOS"
+	},
+	{
+		"cod_operacion": "304500",
+		"desc_operacion": "ACTUALIZA DATOS TF",
+		"tipo_operacion": "ACTUALIZACION DE DATOS"
+	},
+	{
+		"cod_operacion": "106020",
+		"desc_operacion": "ADELANTO DE SUELDO A CTA DEB",
+		"tipo_operacion": "ADELANTO DE SUELDO"
+	},
+	{
+		"cod_operacion": "886020",
+		"desc_operacion": "ADELANTO DE SUELDO",
+		"tipo_operacion": "ADELANTO DE SUELDO"
+	},
+	{
+		"cod_operacion": "106010",
+		"desc_operacion": "ADELANTO DE SUELDO A CTA DEB",
+		"tipo_operacion": "ADELANTO DE SUELDO"
+	},
+	{
+		"cod_operacion": "886120",
+		"desc_operacion": "CONSULTA ADELANTO DE SUELDO",
+		"tipo_operacion": "ADELANTO DE SUELDO"
+	},
+	{
+		"cod_operacion": "220000",
+		"desc_operacion": "ANULACION COMPRA ON (FINAN)",
+		"tipo_operacion": "ANULACIONES"
+	},
+	{
+		"cod_operacion": "222000",
+		"desc_operacion": "ANUL COMP DB ON(FINAN)",
+		"tipo_operacion": "ANULACIONES"
+	},
+	{
+		"cod_operacion": "040000",
+		"desc_operacion": "ANUL. DEV. ON (FINAN)",
+		"tipo_operacion": "ANULACIONES"
+	},
+	{
+		"cod_operacion": "042000",
+		"desc_operacion": "ANUL. DEV. DB ON(FINAN)",
+		"tipo_operacion": "ANULACIONES"
+	},
+	{
+		"cod_operacion": "043000",
+		"desc_operacion": "ANUL. DEV. CR ON(FINAN)",
+		"tipo_operacion": "ANULACIONES"
+	},
+	{
+		"cod_operacion": "232000",
+		"desc_operacion": "ANUL RET OFIC DB ON(FINAN)",
+		"tipo_operacion": "ANULACIONES"
+	},
+	{
+		"cod_operacion": "223000",
+		"desc_operacion": "ANUL COMP CR ON(FINAN)",
+		"tipo_operacion": "ANULACIONES"
+	},
+	{
+		"cod_operacion": "233000",
+		"desc_operacion": "ANUL RET OFIC CR ON(FINAN)",
+		"tipo_operacion": "ANULACIONES"
+	},
+	{
+		"cod_operacion": "023020",
+		"desc_operacion": "AVANCE A CTA AHORRO",
+		"tipo_operacion": "AVANCE CUOTA"
+	},
+	{
+		"cod_operacion": "023010",
+		"desc_operacion": "AVANCE A CTA CORRIENTE",
+		"tipo_operacion": "AVANCE CUOTA"
+	},
+	{
+		"cod_operacion": "710000",
+		"desc_operacion": "CAMBIO DE PIN",
+		"tipo_operacion": "CAMBIO DE PIN"
+	},
+	{
+		"cod_operacion": "902000",
+		"desc_operacion": "CAMBIO CLAVE TARJETA ONLIN",
+		"tipo_operacion": "CAMBIO DE PIN"
+	},
+	{
+		"cod_operacion": "260000",
+		"desc_operacion": "CAMPANIAS INTERACTIVAS-DYNASTY",
+		"tipo_operacion": "CAMPANIAS INTERACTIVAS"
+	},
+	{
+		"cod_operacion": "263000",
+		"desc_operacion": "CAMPANIAS INTERACTIVAS-DYNASTY",
+		"tipo_operacion": "CAMPANIAS INTERACTIVAS"
+	},
+	{
+		"cod_operacion": "262000",
+		"desc_operacion": "CAMPANIAS INTERACTIVAS-DYNASTY",
+		"tipo_operacion": "CAMPANIAS INTERACTIVAS"
+	},
+	{
+		"cod_operacion": "862000",
+		"desc_operacion": "AFILIACION CLAVE SMS",
+		"tipo_operacion": "CLAVE SMS"
+	},
+	{
+		"cod_operacion": "760000",
+		"desc_operacion": "CLAVE SMS",
+		"tipo_operacion": "CLAVE SMS"
+	},
+	{
+		"cod_operacion": "861000",
+		"desc_operacion": "AFILIACION CLAVE SMS",
+		"tipo_operacion": "CLAVE SMS"
+	},
+	{
+		"cod_operacion": "76000",
+		"desc_operacion": "CLAVE SMS",
+		"tipo_operacion": "CLAVE SMS"
+	},
+	{
+		"cod_operacion": "002000",
+		"desc_operacion": "COMPRA DEBITO ONLINE(FINAN)",
+		"tipo_operacion": "COMPRAS"
+	},
+	{
+		"cod_operacion": "003000",
+		"desc_operacion": "COMPRA CREDITO ONLINE(FINAN)",
+		"tipo_operacion": "COMPRAS"
+	},
+	{
+		"cod_operacion": "001000",
+		"desc_operacion": "COMPRA DEBITO ONLINE(AUTOR)",
+		"tipo_operacion": "COMPRAS"
+	},
+	{
+		"cod_operacion": "383000",
+		"desc_operacion": "CONS. SALDO Y MOV. TJ. CAJ.",
+		"tipo_operacion": "CONS. SALDO Y MOV. TJ. CAJ."
+	},
+	{
+		"cod_operacion": "387000",
+		"desc_operacion": "CONS. SALDO Y MOV. TJ. CAJ.",
+		"tipo_operacion": "CONSULTA DE MOVIMIENTOS"
+	},
+	{
+		"cod_operacion": "311000",
+		"desc_operacion": "CONSULTA MOVIMIENTOS",
+		"tipo_operacion": "CONSULTA DE MOVIMIENTOS"
+	},
+	{
+		"cod_operacion": "313000",
+		"desc_operacion": "CONSULTA MOVIMIENTOS",
+		"tipo_operacion": "CONSULTA DE MOVIMIENTOS"
+	},
+	{
+		"cod_operacion": "382000",
+		"desc_operacion": "CONS. SALDO Y MOV. TJ. CAJ.",
+		"tipo_operacion": "CONSULTA DE MOVIMIENTOS"
+	},
+	{
+		"cod_operacion": "328000",
+		"desc_operacion": "CONSULTA MOVIMIENTOS CUOTAS",
+		"tipo_operacion": "CONSULTA DE MOVIMIENTOS"
+	},
+	{
+		"cod_operacion": "323000",
+		"desc_operacion": "CONSULTA MOVIMIENTOS CREDITO",
+		"tipo_operacion": "CONSULTA DE MOVIMIENTOS"
+	},
+	{
+		"cod_operacion": "312000",
+		"desc_operacion": "CONSULTA MOVIMIENTOS",
+		"tipo_operacion": "CONSULTA DE MOVIMIENTOS"
+	},
+	{
+		"cod_operacion": "308000",
+		"desc_operacion": "CONSULTA SALDO CUOTAS",
+		"tipo_operacion": "CONSULTA DE SALDO"
+	},
+	{
+		"cod_operacion": "307000",
+		"desc_operacion": "CONSULTA SALDO CTS",
+		"tipo_operacion": "CONSULTA DE SALDO"
+	},
+	{
+		"cod_operacion": "301800",
+		"desc_operacion": "CONSULTA",
+		"tipo_operacion": "CONSULTA DE SALDO"
+	},
+	{
+		"cod_operacion": "301000",
+		"desc_operacion": "CONSULTA SALDO TARJETA DEBITO",
+		"tipo_operacion": "CONSULTA DE SALDO"
+	},
+	{
+		"cod_operacion": "302000",
+		"desc_operacion": "CONSULTA SALDO TARJETA DEBITO",
+		"tipo_operacion": "CONSULTA DE SALDO"
+	},
+	{
+		"cod_operacion": "303000",
+		"desc_operacion": "CONSULTA DISPONIBLE TJ CREDITO",
+		"tipo_operacion": "CONSULTA DE SALDO"
+	},
+	{
+		"cod_operacion": "350000",
+		"desc_operacion": "CONSULTA DE LISTA DE TARJETAS",
+		"tipo_operacion": "CONSULTA LISTA TJTA CRED."
+	},
+	{
+		"cod_operacion": "343000",
+		"desc_operacion": "CONSULTA INTEGRADA",
+		"tipo_operacion": "CONSULTA POS. GLOBAL"
+	},
+	{
+		"cod_operacion": "342000",
+		"desc_operacion": "CONSULTA INTEGRADA DEB",
+		"tipo_operacion": "CONSULTA POS. GLOBAL"
+	},
+	{
+		"cod_operacion": "333000",
+		"desc_operacion": "CONSULTA TIPO CAMBIO",
+		"tipo_operacion": "CONSULTA TIPO CAMBIO"
+	},
+	{
+		"cod_operacion": "332000",
+		"desc_operacion": "CONSULTA TIPO CAMBIO",
+		"tipo_operacion": "CONSULTA TIPO CAMBIO"
+	},
+	{
+		"cod_operacion": "380000",
+		"desc_operacion": "CONSULTA TRATAMIENTO TARJETAS",
+		"tipo_operacion": "CONSULTA TRATAMIENTO TARJETAS"
+	},
+	{
+		"cod_operacion": "304100",
+		"desc_operacion": "VERIFICAR LA CUENTA",
+		"tipo_operacion": "CUENTA NO DISPONIBLE"
+	},
+	{
+		"cod_operacion": "304200",
+		"desc_operacion": "DEPOSITO TIMEOUT VERIFCA OPERA",
+		"tipo_operacion": "DEPOSITO"
+	},
+	{
+		"cod_operacion": "380010",
+		"desc_operacion": "COMISION DEPOSITO TARJETA",
+		"tipo_operacion": "DEPOSITO"
+	},
+	{
+		"cod_operacion": "250010",
+		"desc_operacion": "DEPOSITO CONFIRMACION",
+		"tipo_operacion": "DEPOSITO"
+	},
+	{
+		"cod_operacion": "210010",
+		"desc_operacion": "DEPOSITO EN CAJ.ONLINE",
+		"tipo_operacion": "DEPOSITO "
+	},
+	{
+		"cod_operacion": "210030",
+		"desc_operacion": "DEPOSITO CRED EN CAJ ONLINE",
+		"tipo_operacion": "DEPOSITO "
+	},
+	{
+		"cod_operacion": "212000",
+		"desc_operacion": "DEPOSITO DEB EN CAJ ONLINE",
+		"tipo_operacion": "DEPOSITO "
+	},
+	{
+		"cod_operacion": "210000",
+		"desc_operacion": "DEPOSITO DEB EN CAJ ONLINE",
+		"tipo_operacion": "DEPOSITO "
+	},
+	{
+		"cod_operacion": "210020",
+		"desc_operacion": "DEPOSITO EN CAJ ONLINE",
+		"tipo_operacion": "DEPOSITO "
+	},
+	{
+		"cod_operacion": "100000",
+		"desc_operacion": "DEVOLUCION COMPRA ON (FINAN)",
+		"tipo_operacion": "DEVOLUCION COMPRA"
+	},
+	{
+		"cod_operacion": "876000",
+		"desc_operacion": "ELIMINAR RETIRO RAPIDO",
+		"tipo_operacion": "ELIMINAR RETIRO RAPIDO"
+	},
+	{
+		"cod_operacion": "384504",
+		"desc_operacion": "ERROR DE HARDWARE",
+		"tipo_operacion": "ERROR DE HARDWARE"
+	},
+	{
+		"cod_operacion": "384500",
+		"desc_operacion": "ERROR HARDWARE",
+		"tipo_operacion": "ERROR HARDWARE"
+	},
+	{
+		"cod_operacion": "550000",
+		"desc_operacion": "GENERACION HMAC",
+		"tipo_operacion": "GENERACION HMAC"
+	},
+	{
+		"cod_operacion": "490300",
+		"desc_operacion": "MIS PAGOS - LISTA AFILIACIONES",
+		"tipo_operacion": "MIS PAGOS"
+	},
+	{
+		"cod_operacion": "490100",
+		"desc_operacion": "MIS PAGOS - CONSULTA RUBRO",
+		"tipo_operacion": "MIS PAGOS"
+	},
+	{
+		"cod_operacion": "490400",
+		"desc_operacion": "MIS PAGOS - AFILIACIONES",
+		"tipo_operacion": "MIS PAGOS"
+	},
+	{
+		"cod_operacion": "490500",
+		"desc_operacion": "MIS PAGOS - CONS. LIQUIDACION",
+		"tipo_operacion": "MIS PAGOS"
+	},
+	{
+		"cod_operacion": "490600",
+		"desc_operacion": "MIS PAGOS - BAJA AFILIACION",
+		"tipo_operacion": "MIS PAGOS"
+	},
+	{
+		"cod_operacion": "490200",
+		"desc_operacion": "MIS PAGOS - CONSULTA CONVENIOS",
+		"tipo_operacion": "MIS PAGOS"
+	},
+	{
+		"cod_operacion": "871000",
+		"desc_operacion": "CV3.GRABACION BANDA MAGNETICA",
+		"tipo_operacion": "OTROS"
+	},
+	{
+		"cod_operacion": "707000",
+		"desc_operacion": "CONSULTA COMISION RETIRO",
+		"tipo_operacion": "OTROS"
+	},
+	{
+		"cod_operacion": "010000",
+		"desc_operacion": "NO REGISTRADO",
+		"tipo_operacion": "OTROS"
+	},
+	{
+		"cod_operacion": "283000",
+		"desc_operacion": "NO REGISTRADO",
+		"tipo_operacion": "OTROS"
+	},
+	{
+		"cod_operacion": "310000",
+		"desc_operacion": "OTROS",
+		"tipo_operacion": "OTROS"
+	},
+	{
+		"cod_operacion": "100050",
+		"desc_operacion": "OPER.PREVIAS PRE VENTA ENTRADA",
+		"tipo_operacion": "OTROS"
+	},
+	{
+		"cod_operacion": "101000",
+		"desc_operacion": "TRASPAS COMPTE LIBRETA",
+		"tipo_operacion": "OTROS"
+	},
+	{
+		"cod_operacion": "102000",
+		"desc_operacion": "TRASPAS COMPTE TARJETA",
+		"tipo_operacion": "OTROS"
+	},
+	{
+		"cod_operacion": "102050",
+		"desc_operacion": "PAGAR PRE VENTA DE ENTRADAS",
+		"tipo_operacion": "OTROS"
+	},
+	{
+		"cod_operacion": "103000",
+		"desc_operacion": "TRASPAS COMPTE TARGETA",
+		"tipo_operacion": "OTROS"
+	},
+	{
+		"cod_operacion": "508000",
+		"desc_operacion": "OTROS",
+		"tipo_operacion": "OTROS"
+	},
+	{
+		"cod_operacion": "402088",
+		"desc_operacion": "OTROS",
+		"tipo_operacion": "OTROS"
+	},
+	{
+		"cod_operacion": "402030",
+		"desc_operacion": "OTROS",
+		"tipo_operacion": "OTROS"
+	},
+	{
+		"cod_operacion": "105050",
+		"desc_operacion": "RE-IMPRESSION VENTA DE ENTRADA",
+		"tipo_operacion": "OTROS"
+	},
+	{
+		"cod_operacion": "107010",
+		"desc_operacion": "TRASPASO DESDE CTS A CTA DEB",
+		"tipo_operacion": "OTROS"
+	},
+	{
+		"cod_operacion": "401088",
+		"desc_operacion": "OTROS",
+		"tipo_operacion": "OTROS"
+	},
+	{
+		"cod_operacion": "388000",
+		"desc_operacion": "OTROS",
+		"tipo_operacion": "OTROS"
+	},
+	{
+		"cod_operacion": "320000",
+		"desc_operacion": "OTROS",
+		"tipo_operacion": "OTROS"
+	},
+	{
+		"cod_operacion": "110050",
+		"desc_operacion": "PRE VENTA ENTRADAS",
+		"tipo_operacion": "OTROS"
+	},
+	{
+		"cod_operacion": "112050",
+		"desc_operacion": "PAGAR PRE VENTA DE ENTRADAS",
+		"tipo_operacion": "OTROS"
+	},
+	{
+		"cod_operacion": "200000",
+		"desc_operacion": "DEVOLUCION COMPRA ON (FINAN)",
+		"tipo_operacion": "OTROS"
+	},
+	{
+		"cod_operacion": "202000",
+		"desc_operacion": "DEV. COMPRA DEBITO ON (FINAN)",
+		"tipo_operacion": "OTROS"
+	},
+	{
+		"cod_operacion": "203000",
+		"desc_operacion": "DEV. COMPRA CREDITO ON (FINAN)",
+		"tipo_operacion": "OTROS"
+	},
+	{
+		"cod_operacion": "211000",
+		"desc_operacion": "INGRESO LIBRETA ONLINE",
+		"tipo_operacion": "OTROS"
+	},
+	{
+		"cod_operacion": "259000",
+		"desc_operacion": "REIMPRESION ULTIMA DISP P PIDE",
+		"tipo_operacion": "OTROS"
+	},
+	{
+		"cod_operacion": "259020",
+		"desc_operacion": "DISPOSICION DE PRESTAMO PIDE",
+		"tipo_operacion": "OTROS"
+	},
+	{
+		"cod_operacion": "300000",
+		"desc_operacion": "OTROS",
+		"tipo_operacion": "OTROS"
+	},
+	{
+		"cod_operacion": "303700",
+		"desc_operacion": "CONS.RETIRO SEGURO PRUEBA ...",
+		"tipo_operacion": "OTROS"
+	},
+	{
+		"cod_operacion": "353000",
+		"desc_operacion": "CONSULTA DE SALDO DE UNA TARJE",
+		"tipo_operacion": "OTROS"
+	},
+	{
+		"cod_operacion": "603000",
+		"desc_operacion": "DISP. SALDO ACREEDOR",
+		"tipo_operacion": "OTROS"
+	},
+	{
+		"cod_operacion": "630000",
+		"desc_operacion": "ALTA DE SEGURO RAPIDO",
+		"tipo_operacion": "OTROS"
+	},
+	{
+		"cod_operacion": "650000",
+		"desc_operacion": "CAMBIO DE PIN EN OFICINA",
+		"tipo_operacion": "OTROS"
+	},
+	{
+		"cod_operacion": "652000",
+		"desc_operacion": "CAMBIO PIN VISA MINI",
+		"tipo_operacion": "OTROS"
+	},
+	{
+		"cod_operacion": "653000",
+		"desc_operacion": "CAMBIO PIN VISA MINI",
+		"tipo_operacion": "OTROS"
+	},
+	{
+		"cod_operacion": "660000",
+		"desc_operacion": "CONSULTA DE OTROS OPERADORES",
+		"tipo_operacion": "OTROS"
+	},
+	{
+		"cod_operacion": "670000",
+		"desc_operacion": "CONS RECARGA OTROS OPERADORES",
+		"tipo_operacion": "OTROS"
+	},
+	{
+		"cod_operacion": "881000",
+		"desc_operacion": "PRUEBA1",
+		"tipo_operacion": "OTROS"
+	},
+	{
+		"cod_operacion": "872000",
+		"desc_operacion": "CV3.GRABACION BANDA MAGNETICA",
+		"tipo_operacion": "OTROS"
+	},
+	{
+		"cod_operacion": "712050",
+		"desc_operacion": "COMPRA VENTA DOLARES-PREVENTA",
+		"tipo_operacion": "OTROS"
+	},
+	{
+		"cod_operacion": "713030",
+		"desc_operacion": "PAGO A CUENTA POR COMPRA/VENTA",
+		"tipo_operacion": "OTROS"
+	},
+	{
+		"cod_operacion": "717010",
+		"desc_operacion": "TRASPASO DESDE CTS A CTA DEB",
+		"tipo_operacion": "OTROS"
+	},
+	{
+		"cod_operacion": "720050",
+		"desc_operacion": "PRE VENTA ENTRADAS",
+		"tipo_operacion": "OTROS"
+	},
+	{
+		"cod_operacion": "722050",
+		"desc_operacion": "PRE VENTA ENTRADAS",
+		"tipo_operacion": "OTROS"
+	},
+	{
+		"cod_operacion": "732000",
+		"desc_operacion": "VENTA DE TJ. CABIPHONE DB",
+		"tipo_operacion": "OTROS"
+	},
+	{
+		"cod_operacion": "733000",
+		"desc_operacion": "VENTA DE TJ. CABIPHONE CR",
+		"tipo_operacion": "OTROS"
+	},
+	{
+		"cod_operacion": "742000",
+		"desc_operacion": "VENTA DE TARJETA PREPAGO 147",
+		"tipo_operacion": "OTROS"
+	},
+	{
+		"cod_operacion": "743000",
+		"desc_operacion": "VENTA DE TARJETA PREPAGO 147",
+		"tipo_operacion": "OTROS"
+	},
+	{
+		"cod_operacion": "751000",
+		"desc_operacion": "VENTA DE TARJETA PREPAGO MOV",
+		"tipo_operacion": "OTROS"
+	},
+	{
+		"cod_operacion": "752000",
+		"desc_operacion": "MOVIFACIL DE TELEFONICA",
+		"tipo_operacion": "OTROS"
+	},
+	{
+		"cod_operacion": "753000",
+		"desc_operacion": "MOVIFACIL DE TELEFONICA",
+		"tipo_operacion": "OTROS"
+	},
+	{
+		"cod_operacion": "761000",
+		"desc_operacion": "VENTA DE TARJETA HOLA PERU",
+		"tipo_operacion": "OTROS"
+	},
+	{
+		"cod_operacion": "762000",
+		"desc_operacion": "VENTA DE TARJETA HOLA PERU ",
+		"tipo_operacion": "OTROS"
+	},
+	{
+		"cod_operacion": "763000",
+		"desc_operacion": "VENTA DE TARJETA HOLA PERU",
+		"tipo_operacion": "OTROS"
+	},
+	{
+		"cod_operacion": "773000",
+		"desc_operacion": "SIMULACION CUOTAS SUPERCOMPRA.",
+		"tipo_operacion": "OTROS"
+	},
+	{
+		"cod_operacion": "778000",
+		"desc_operacion": "SIMULACION CUOTAS SUPERCOMPRA.",
+		"tipo_operacion": "OTROS"
+	},
+	{
+		"cod_operacion": "783000",
+		"desc_operacion": "TRASLADO A SUPERCOMPRAS.",
+		"tipo_operacion": "OTROS"
+	},
+	{
+		"cod_operacion": "788000",
+		"desc_operacion": "TRASLADO A SUPERCOMPRAS.",
+		"tipo_operacion": "OTROS"
+	},
+	{
+		"cod_operacion": "791080",
+		"desc_operacion": "PRE-PAGO DE CONTICARD CUOTAS",
+		"tipo_operacion": "OTROS"
+	},
+	{
+		"cod_operacion": "792080",
+		"desc_operacion": "PRE-PAGO DE CONTICARD CUOTAS",
+		"tipo_operacion": "OTROS"
+	},
+	{
+		"cod_operacion": "970000",
+		"desc_operacion": "PAGO PREPAGO VISANET S/TARJ",
+		"tipo_operacion": "OTROS"
+	},
+	{
+		"cod_operacion": "942000",
+		"desc_operacion": "CAMBIO CODIGO VISAPHONEONE",
+		"tipo_operacion": "OTROS"
+	},
+	{
+		"cod_operacion": "941000",
+		"desc_operacion": "CAMBIO CODIGO VISAPHONEONE",
+		"tipo_operacion": "OTROS"
+	},
+	{
+		"cod_operacion": "932000",
+		"desc_operacion": "CONSULTA CUENTAS X TARJETA",
+		"tipo_operacion": "OTROS"
+	},
+	{
+		"cod_operacion": "400000",
+		"desc_operacion": "REPOSICION EFECTIVO CAJERO",
+		"tipo_operacion": "OTROS"
+	},
+	{
+		"cod_operacion": "410000",
+		"desc_operacion": "CONSULTA PREP. SERV. VISANET",
+		"tipo_operacion": "OTROS"
+	},
+	{
+		"cod_operacion": "412000",
+		"desc_operacion": "CONSULTA PREP. SERV. POR CAJER",
+		"tipo_operacion": "OTROS"
+	},
+	{
+		"cod_operacion": "413000",
+		"desc_operacion": "CONSULTA PREP. SERV. POR CAJER",
+		"tipo_operacion": "OTROS"
+	},
+	{
+		"cod_operacion": "930000",
+		"desc_operacion": "ACTIVACION MASTER KEY",
+		"tipo_operacion": "OTROS"
+	},
+	{
+		"cod_operacion": "903000",
+		"desc_operacion": "CAMBIO CLAVE TARJETA ONLIN",
+		"tipo_operacion": "OTROS"
+	},
+	{
+		"cod_operacion": "901000",
+		"desc_operacion": "CAMBIO CLAVE LIBRETA ONLINE",
+		"tipo_operacion": "OTROS"
+	},
+	{
+		"cod_operacion": "882000",
+		"desc_operacion": "PRUEBA2",
+		"tipo_operacion": "OTROS"
+	},
+	{
+		"cod_operacion": "102093",
+		"desc_operacion": "CONSULTA DEUDA DE PRESTAMOS",
+		"tipo_operacion": "PAGO DE PRESTAMOS"
+	},
+	{
+		"cod_operacion": "100094",
+		"desc_operacion": "CONSULTA DEUDA DE PRESTAMOS",
+		"tipo_operacion": "PAGO DE PRESTAMOS"
+	},
+	{
+		"cod_operacion": "100093",
+		"desc_operacion": "CONSULTA DEUDA DE PRESTAMOS",
+		"tipo_operacion": "PAGO DE PRESTAMOS"
+	},
+	{
+		"cod_operacion": "10294",
+		"desc_operacion": "CONSULTA DEUDA DE PRESTAMOS",
+		"tipo_operacion": "PAGO DE PRESTAMOS"
+	},
+	{
+		"cod_operacion": "102094",
+		"desc_operacion": "CONSULTA DEUDA DE PRESTAMOS",
+		"tipo_operacion": "PAGO DE PRESTAMOS"
+	},
+	{
+		"cod_operacion": "500000",
+		"desc_operacion": "CONSULTA PAGO SERVICIO LUZ",
+		"tipo_operacion": "PAGO DE SERVICIOS"
+	},
+	{
+		"cod_operacion": "501000",
+		"desc_operacion": "AUTORIZACION DE PAGOS DE SERVICIOS",
+		"tipo_operacion": "PAGO DE SERVICIOS"
+	},
+	{
+		"cod_operacion": "831000",
+		"desc_operacion": "CONSULTA PAGOS SERV. TIM",
+		"tipo_operacion": "PAGO DE SERVICIOS"
+	},
+	{
+		"cod_operacion": "832000",
+		"desc_operacion": "CONSULTA PAGOS SERV. TIM",
+		"tipo_operacion": "PAGO DE SERVICIOS"
+	},
+	{
+		"cod_operacion": "840000",
+		"desc_operacion": "PAGO SERV.TELEFONICOS CLARO TJ",
+		"tipo_operacion": "PAGO DE SERVICIOS"
+	},
+	{
+		"cod_operacion": "841000",
+		"desc_operacion": "PAGO SERVICIOS TELEFONOS CLARO",
+		"tipo_operacion": "PAGO DE SERVICIOS"
+	},
+	{
+		"cod_operacion": "990000",
+		"desc_operacion": "PAGO SERVICIOS VISANET S/TARJ",
+		"tipo_operacion": "PAGO DE SERVICIOS"
+	},
+	{
+		"cod_operacion": "830000",
+		"desc_operacion": "CONSULTA PAGOS SERV. TIM",
+		"tipo_operacion": "PAGO DE SERVICIOS"
+	},
+	{
+		"cod_operacion": "512000",
+		"desc_operacion": "PAGO RECAUDOS",
+		"tipo_operacion": "PAGO DE SERVICIOS"
+	},
+	{
+		"cod_operacion": "532000",
+		"desc_operacion": "PAGO SERVICIOS AGUA",
+		"tipo_operacion": "PAGO DE SERVICIOS"
+	},
+	{
+		"cod_operacion": "842000",
+		"desc_operacion": "PAGO SERVICIOS TELEFONOS CLARO",
+		"tipo_operacion": "PAGO DE SERVICIOS"
+	},
+	{
+		"cod_operacion": "502000",
+		"desc_operacion": "AUTORIZACION DE PAGOS DE SERVICIOS",
+		"tipo_operacion": "PAGO DE SERVICIOS"
+	},
+	{
+		"cod_operacion": "520000",
+		"desc_operacion": "CONSULTA PAGO SERVICIO AGUA",
+		"tipo_operacion": "PAGO DE SERVICIOS"
+	},
+	{
+		"cod_operacion": "524000",
+		"desc_operacion": "CONSULTA PAGO RECAUDOS",
+		"tipo_operacion": "PAGO DE SERVICIOS"
+	},
+	{
+		"cod_operacion": "850000",
+		"desc_operacion": "PAGO SERV.TELEFONICOS CLA S/TJ",
+		"tipo_operacion": "PAGO DE SERVICIOS"
+	},
+	{
+		"cod_operacion": "390000",
+		"desc_operacion": "CONSULTA PAGOS SERV. VISANET",
+		"tipo_operacion": "PAGO DE SERVICIOS"
+	},
+	{
+		"cod_operacion": "391000",
+		"desc_operacion": "CONSULTA PAGO DE SERVICIOS",
+		"tipo_operacion": "PAGO DE SERVICIOS"
+	},
+	{
+		"cod_operacion": "392000",
+		"desc_operacion": "CONSULTA PAGO DE SERVICIOS",
+		"tipo_operacion": "PAGO DE SERVICIOS"
+	},
+	{
+		"cod_operacion": "393000",
+		"desc_operacion": "CONSULTA PAGO DE SERVICIOS",
+		"tipo_operacion": "PAGO DE SERVICIOS"
+	},
+	{
+		"cod_operacion": "980000",
+		"desc_operacion": "PAGO SERVICIOS VISANET C/TARJ",
+		"tipo_operacion": "PAGO DE SERVICIOS"
+	},
+	{
+		"cod_operacion": "981000",
+		"desc_operacion": "PAGO SERVICIOS MOVISTAR",
+		"tipo_operacion": "PAGO DE SERVICIOS"
+	},
+	{
+		"cod_operacion": "982000",
+		"desc_operacion": "PAGO SERVICIOS MOVISTAR",
+		"tipo_operacion": "PAGO DE SERVICIOS"
+	},
+	{
+		"cod_operacion": "983000",
+		"desc_operacion": "PAGO SERVICIOS MOVISTAR",
+		"tipo_operacion": "PAGO DE SERVICIOS"
+	},
+	{
+		"cod_operacion": "513000",
+		"desc_operacion": "AUTORIZACION PAGO RECAUDOS",
+		"tipo_operacion": "PAGO RECAUDOS"
+	},
+	{
+		"cod_operacion": "382030",
+		"desc_operacion": "COMISION PAGO DE TARJETA",
+		"tipo_operacion": "PAGO TARJETA DE CREDITO"
+	},
+	{
+		"cod_operacion": "408030",
+		"desc_operacion": "PAGO DE TARJETA EFECTIVO",
+		"tipo_operacion": "PAGO TJTA. CRED EFECTIVO"
+	},
+	{
+		"cod_operacion": "100030",
+		"desc_operacion": "PAGO DE TARJETA EFECTIVO",
+		"tipo_operacion": "PAGO TJTA. CRED EFECTIVO"
+	},
+	{
+		"cod_operacion": "102030",
+		"desc_operacion": "PAGO DE TARJETA",
+		"tipo_operacion": "PAGO TJTA. CRED PROPIA"
+	},
+	{
+		"cod_operacion": "712030",
+		"desc_operacion": "PAGO DE TAJET POR COMPRA/VENTA",
+		"tipo_operacion": "PAGO TJTA. CRED PROPIA"
+	},
+	{
+		"cod_operacion": "101090",
+		"desc_operacion": "PAGO DE TARJETAS AJENAS",
+		"tipo_operacion": "PAGO TJTA. INTERBANCARIA"
+	},
+	{
+		"cod_operacion": "101091",
+		"desc_operacion": "SIMULACION PAGO TJ AJENA",
+		"tipo_operacion": "PAGO TJTA. INTERBANCARIA"
+	},
+	{
+		"cod_operacion": "103030",
+		"desc_operacion": "PAGO A CUENTA",
+		"tipo_operacion": "PAGOS"
+	},
+	{
+		"cod_operacion": "103020",
+		"desc_operacion": "PAGO A CUENTA",
+		"tipo_operacion": "PAGOS"
+	},
+	{
+		"cod_operacion": "103010",
+		"desc_operacion": "PAGO A CUENTA",
+		"tipo_operacion": "PAGOS"
+	},
+	{
+		"cod_operacion": "090010",
+		"desc_operacion": "PAT DESEMBOLSO",
+		"tipo_operacion": "PAT"
+	},
+	{
+		"cod_operacion": "384501",
+		"desc_operacion": "PIN ERRADO",
+		"tipo_operacion": "PIN ERRADO"
+	},
+	{
+		"cod_operacion": "109200",
+		"desc_operacion": "PRESTAMO AL TOQUE CONFIRMACION",
+		"tipo_operacion": "PRESTAMO AL TOQUE"
+	},
+	{
+		"cod_operacion": "109000",
+		"desc_operacion": "PRESTAMO AL TOQUE",
+		"tipo_operacion": "PRESTAMO AL TOQUE"
+	},
+	{
+		"cod_operacion": "109020",
+		"desc_operacion": "PRESTAMO AL TOQUE",
+		"tipo_operacion": "PRESTAMO AL TOQUE"
+	},
+	{
+		"cod_operacion": "109100",
+		"desc_operacion": "PRESTAMO AL TOQUE CONSULTA",
+		"tipo_operacion": "PRESTAMO AL TOQUE"
+	},
+	{
+		"cod_operacion": "309000",
+		"desc_operacion": "CONSULTA PRESTAMO PIDE",
+		"tipo_operacion": "PRESTAMO AL TOQUE"
+	},
+	{
+		"cod_operacion": "972000",
+		"desc_operacion": "RECARGA CELULAR MOVISTAR",
+		"tipo_operacion": "RECARGA DE CELULAR"
+	},
+	{
+		"cod_operacion": "682000",
+		"desc_operacion": "RECARGA DE CELULAR OTROS OPER",
+		"tipo_operacion": "RECARGA DE CELULAR"
+	},
+	{
+		"cod_operacion": "973000",
+		"desc_operacion": "RECARGA CELULAR MOVISTAR/CRED",
+		"tipo_operacion": "RECARGA DE CELULAR"
+	},
+	{
+		"cod_operacion": "822000",
+		"desc_operacion": "RECARGA DE CELULAR CLARO",
+		"tipo_operacion": "RECARGA DE CELULAR"
+	},
+	{
+		"cod_operacion": "971000",
+		"desc_operacion": "RECARGA CELULAR MOVISTAR",
+		"tipo_operacion": "RECARGA DE CELULAR"
+	},
+	{
+		"cod_operacion": "820000",
+		"desc_operacion": "RECARGA DE CELULAR CLARO",
+		"tipo_operacion": "RECARGA DE CELULAR"
+	},
+	{
+		"cod_operacion": "875000",
+		"desc_operacion": "REGISTRAR RETIRO RAPIDO",
+		"tipo_operacion": "REGISTRAR RETIRO RAPIDO"
+	},
+	{
+		"cod_operacion": "481000",
+		"desc_operacion": "ALTA DE SEGURO RAPIDO",
+		"tipo_operacion": "RETIRO"
+	},
+	{
+		"cod_operacion": "703000",
+		"desc_operacion": "COMPRA VENTA DOLARES-RETIRO",
+		"tipo_operacion": "RETIRO"
+	},
+	{
+		"cod_operacion": "702000",
+		"desc_operacion": "COMPRA VENTA DOLARES-RETIRO",
+		"tipo_operacion": "RETIRO"
+	},
+	{
+		"cod_operacion": "483900",
+		"desc_operacion": "RETIRO CUOTAS",
+		"tipo_operacion": "RETIRO"
+	},
+	{
+		"cod_operacion": "483800",
+		"desc_operacion": "RETIRO CUOTAS",
+		"tipo_operacion": "RETIRO"
+	},
+	{
+		"cod_operacion": "483700",
+		"desc_operacion": "ALTA RETIRO SEGURO PRIMA",
+		"tipo_operacion": "RETIRO"
+	},
+	{
+		"cod_operacion": "483000",
+		"desc_operacion": "ALTA DE SEGURO RAPIDO",
+		"tipo_operacion": "RETIRO"
+	},
+	{
+		"cod_operacion": "482000",
+		"desc_operacion": "ALTA DE SEGURO RAPIDO",
+		"tipo_operacion": "RETIRO"
+	},
+	{
+		"cod_operacion": "388800",
+		"desc_operacion": "COSNULTA RETIRO SEGURO",
+		"tipo_operacion": "RETIRO"
+	},
+	{
+		"cod_operacion": "383900",
+		"desc_operacion": "ALTA RETIRO SEGURO PRIMA",
+		"tipo_operacion": "RETIRO"
+	},
+	{
+		"cod_operacion": "383800",
+		"desc_operacion": "ALTA RETIRO SEGURO PRIMA",
+		"tipo_operacion": "RETIRO"
+	},
+	{
+		"cod_operacion": "383700",
+		"desc_operacion": "ALTA RETIRO SEGURO PRIMA",
+		"tipo_operacion": "RETIRO"
+	},
+	{
+		"cod_operacion": "381000",
+		"desc_operacion": "CONSULA COMISION DE RETIRO",
+		"tipo_operacion": "RETIRO"
+	},
+	{
+		"cod_operacion": "011800",
+		"desc_operacion": "RETIRO DEBITO",
+		"tipo_operacion": "RETIRO"
+	},
+	{
+		"cod_operacion": "013800",
+		"desc_operacion": "RETIRO CUOTAS",
+		"tipo_operacion": "RETIRO"
+	},
+	{
+		"cod_operacion": "015000",
+		"desc_operacion": "COTIZACION TIPO CAMBIO DCC",
+		"tipo_operacion": "RETIRO"
+	},
+	{
+		"cod_operacion": "019000",
+		"desc_operacion": "EFECTIVO.MOVIL.EN CAJEROS",
+		"tipo_operacion": "RETIRO"
+	},
+	{
+		"cod_operacion": "018000",
+		"desc_operacion": "RETIRO CASH OUT",
+		"tipo_operacion": "RETIRO"
+	},
+	{
+		"cod_operacion": "017000",
+		"desc_operacion": "RET TJ DB CAJERO ONLINE(FINAN)",
+		"tipo_operacion": "RETIRO"
+	},
+	{
+		"cod_operacion": "013000",
+		"desc_operacion": "RET TJ CR CAJERO ONLINE(FINAN)",
+		"tipo_operacion": "RETIRO"
+	},
+	{
+		"cod_operacion": "012090",
+		"desc_operacion": "RETIRO WALLET EN ATM",
+		"tipo_operacion": "RETIRO"
+	},
+	{
+		"cod_operacion": "012000",
+		"desc_operacion": "RET TJ DB CAJERO ONLINE(FINAN)",
+		"tipo_operacion": "RETIRO"
+	},
+	{
+		"cod_operacion": "011000",
+		"desc_operacion": "RET LIBRETA CAJERO ONL.(FINAN)",
+		"tipo_operacion": "RETIRO"
+	},
+	{
+		"cod_operacion": "020000",
+		"desc_operacion": "RET.OFICINA SENSE IND.D/C",
+		"tipo_operacion": "RETIRO OFICINA"
+	},
+	{
+		"cod_operacion": "023000",
+		"desc_operacion": "RET TJ CR OFICINA ON(FINAN)",
+		"tipo_operacion": "RETIRO OFICINA"
+	},
+	{
+		"cod_operacion": "022000",
+		"desc_operacion": "RET TJ DB OFICINA ON(FINAN)",
+		"tipo_operacion": "RETIRO OFICINA"
+	},
+	{
+		"cod_operacion": "090000",
+		"desc_operacion": "AUTORIZACION SEGURO PROTECCION DE TARJ",
+		"tipo_operacion": "SEGURO PROTECCION DE TARJ"
+	},
+	{
+		"cod_operacion": "092000",
+		"desc_operacion": "AUTORIZACION  SEGURO PROTECCION DE TARJ",
+		"tipo_operacion": "SEGURO PROTECCION DE TARJ"
+	},
+	{
+		"cod_operacion": "091000",
+		"desc_operacion": "AUTORIZACION  SEGURO PROTECCION DE TARJ",
+		"tipo_operacion": "SEGURO PROTECCION DE TARJ"
+	},
+	{
+		"cod_operacion": "093000",
+		"desc_operacion": "AUTORIZACION  SEGURO PROTECCION DE TARJ",
+		"tipo_operacion": "SEGURO PROTECCION DE TARJ"
+	},
+	{
+		"cod_operacion": "280000",
+		"desc_operacion": "ALTA DE SEGURO",
+		"tipo_operacion": "SEGUROS"
+	},
+	{
+		"cod_operacion": "270000",
+		"desc_operacion": "CONSULTA DE SEGURO",
+		"tipo_operacion": "SEGUROS"
+	},
+	{
+		"cod_operacion": "290000",
+		"desc_operacion": "EXTORNO DEL ALTA DE SEGURO",
+		"tipo_operacion": "SEGUROS"
+	},
+	{
+		"cod_operacion": "160002",
+		"desc_operacion": "PRERESER SOL. TC X ATM",
+		"tipo_operacion": "SOLICITUD TARJETA CREDITO"
+	},
+	{
+		"cod_operacion": "360003",
+		"desc_operacion": "RESERVA SOL. TC X ATM",
+		"tipo_operacion": "SOLICITUD TARJETA CREDITO"
+	},
+	{
+		"cod_operacion": "360000",
+		"desc_operacion": "SOLICITUD DE TC X ATM",
+		"tipo_operacion": "SOLICITUD TARJETA CREDITO"
+	},
+	{
+		"cod_operacion": "160000",
+		"desc_operacion": "SOLICITUD DE TC X ATM",
+		"tipo_operacion": "SOLICITUD TARJETA CREDITO"
+	},
+	{
+		"cod_operacion": "160001",
+		"desc_operacion": "CONSULTA SOL. TC X ATM",
+		"tipo_operacion": "SOLICITUD TARJETA CREDITO"
+	},
+	{
+		"cod_operacion": "160003",
+		"desc_operacion": "RESERVA SOL. TC X ATM",
+		"tipo_operacion": "SOLICITUD TARJETA CREDITO"
+	},
+	{
+		"cod_operacion": "360002",
+		"desc_operacion": "PRERESER SOL. TC X ATM",
+		"tipo_operacion": "SOLICITUD TARJETA CREDITO"
+	},
+	{
+		"cod_operacion": "360001",
+		"desc_operacion": "CONSULTA SOL. TC X ATM",
+		"tipo_operacion": "SOLICITUD TARJETA CREDITO"
+	},
+	{
+		"cod_operacion": "384502",
+		"desc_operacion": "TARJETA OLVIDADA",
+		"tipo_operacion": "TARJETA OLVIDADA"
+	},
+	{
+		"cod_operacion": "384503",
+		"desc_operacion": "TARJETA VENCIDA",
+		"tipo_operacion": "TARJETA VENCIDA"
+	},
+	{
+		"cod_operacion": "717020",
+		"desc_operacion": "TRANSF. A CTA PROPIA",
+		"tipo_operacion": "TRANSF. A CTA PROPIA"
+	},
+	{
+		"cod_operacion": "107020",
+		"desc_operacion": "TRANSF. A CTA PROPIA",
+		"tipo_operacion": "TRANSF. A CTA PROPIA"
+	},
+	{
+		"cod_operacion": "712020",
+		"desc_operacion": "TRANSF. A CTA PROPIA",
+		"tipo_operacion": "TRANSF. A CTA PROPIA"
+	},
+	{
+		"cod_operacion": "722020",
+		"desc_operacion": "TRANSF. A TERCEROS",
+		"tipo_operacion": "TRANSF. A TERCEROS"
+	},
+	{
+		"cod_operacion": "102020",
+		"desc_operacion": "TRANSF. A TERCEROS",
+		"tipo_operacion": "TRANSF. A TERCEROS"
+	},
+	{
+		"cod_operacion": "112020",
+		"desc_operacion": "TRANSF. A TERCEROS",
+		"tipo_operacion": "TRANSF. A TERCEROS"
+	},
+	{
+		"cod_operacion": "101070",
+		"desc_operacion": "TRANSF A OTROS BANCOS",
+		"tipo_operacion": "TRANSF. INTERBANCARIA"
+	},
+	{
+		"cod_operacion": "101071",
+		"desc_operacion": "TRANSF A OTROS BANCOS",
+		"tipo_operacion": "TRANSF. INTERBANCARIA"
+	},
+	{
+		"cod_operacion": "402010",
+		"desc_operacion": "TRANSFERENCIAS TERCEROS",
+		"tipo_operacion": "TRANSFERENCIAS"
+	},
+	{
+		"cod_operacion": "411010",
+		"desc_operacion": "TRANSFERENCIAS PROPIAS",
+		"tipo_operacion": "TRANSFERENCIAS"
+	},
+	{
+		"cod_operacion": "401010",
+		"desc_operacion": "TRANSFERENCIAS TERCEROS",
+		"tipo_operacion": "TRANSFERENCIAS"
+	},
+	{
+		"cod_operacion": "401030",
+		"desc_operacion": "TRANSFERENCIAS TERCEROS",
+		"tipo_operacion": "TRANSFERENCIAS"
+	},
+	{
+		"cod_operacion": "411820",
+		"desc_operacion": "TRANSFERENCIAS PROPIAS",
+		"tipo_operacion": "TRANSFERENCIAS"
+	},
+	{
+		"cod_operacion": "411810",
+		"desc_operacion": "TRANSFERENCIAS PROPIAS",
+		"tipo_operacion": "TRANSFERENCIAS"
+	}
+]
