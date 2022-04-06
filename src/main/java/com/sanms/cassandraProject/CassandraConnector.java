@@ -43,6 +43,7 @@ public class CassandraConnector {
     	
     	String query = sb.toString();
     	session.execute(query);
+    	System.out.println("CREATED TABLE: " + tableName);
     }
     
     public void dropTable(String keySpace, String tableName) {
@@ -51,6 +52,7 @@ public class CassandraConnector {
     	
     	String query = sb.toString();
     	session.execute(query);
+    	System.out.println("DROP TABLE: " + tableName);
     }
     
     /**

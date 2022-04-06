@@ -30,19 +30,15 @@ public class Principal {
 		client.createKeySpace(KEYSPACENAME, "SimpleStrategy", 1);
 		
 		//CREATE TABLE COIN
-		client.createTable(KEYSPACENAME, Table.COIN, ColumnCoin.getQueryColumnsCoin());
-		System.out.println("CREATED TABLE: " + Table.COIN);
+		client.createTable(KEYSPACENAME, Table.COIN, ColumnCoin.getQueryColumnsCoin());		
 		
 		//CREATE TABLE PROCESSINGCODE
-		client.createTable(KEYSPACENAME, Table.PROCESSING_CODE, ColumnProcessingCode.getQueryColumnsProcessingCode());
-		System.out.println("CREATED TABLE: " + Table.PROCESSING_CODE);
+		client.createTable(KEYSPACENAME, Table.PROCESSING_CODE, ColumnProcessingCode.getQueryColumnsProcessingCode());		
 		
 		//CREATE TABLE TRANSACTION_MOVEMENT
-		client.createTable(KEYSPACENAME, Table.TRN_MOVEMNT, ColumnTrnMovement.getQueryColumnTrnMovemnt());
-		System.out.println("CREATED TABLE: " + Table.TRN_MOVEMNT);
+		client.createTable(KEYSPACENAME, Table.TRN_MOVEMNT, ColumnTrnMovement.getQueryColumnTrnMovemnt());		
 		
-		//INSERT DATA PROCESSINGCODE
-		
+		//INSERT DATA PROCESSINGCODE		
 		Gson gsonreader = new Gson();
     	Path path = Paths.get("C:\\csdevelopment\\cassandraProject\\codigo_operacion.json");
     	JsonReader jsonreader;
