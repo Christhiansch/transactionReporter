@@ -56,8 +56,6 @@ public class Principal {
     	
     	
 		//INSERT DATA TRANSACTION MOVEMENT
-		
-		
 		client.close();
 	}
 	

@@ -27,6 +27,8 @@ public class CassandraConnector {
     }
     
     public void createKeySpace(String keySpaceName, String strategyReplication, int replicationFactor) {
+    	    	
+    	
     	StringBuilder sb = new StringBuilder("CREATE KEYSPACE IF NOT EXISTS ")
 				.append(keySpaceName).append(" WITH replication = {")
 				.append("'class':'").append(strategyReplication)
@@ -38,16 +40,21 @@ public class CassandraConnector {
     }
     
     public void createTable(String keySpace, String tableName, String queryColumns){
+    	
+    	//DROP
+    	dropTable(keySpace, tableName);
+    	
     	StringBuilder sb = new StringBuilder("CREATE TABLE IF NOT EXISTS ")
     			.append(keySpace).append(".").append(tableName).append(queryColumns);
     	
+    	//CREATE
     	String query = sb.toString();
     	session.execute(query);
     	System.out.println("CREATED TABLE: " + tableName);
     }
     
     public void dropTable(String keySpace, String tableName) {
-    	StringBuilder sb = new StringBuilder("DROP TABLE IF NOT EXISTS ")
+    	StringBuilder sb = new StringBuilder("DROP TABLE IF EXISTS ")
     			.append(keySpace).append(".").append(tableName).append(";");
     	
     	String query = sb.toString();
@@ -63,7 +70,7 @@ public class CassandraConnector {
     public void insertDataProcessingCode(String keySpace, List<ProcessingCode> lstProcess, String columnName) {
     	
     	for (ProcessingCode process : lstProcess) {
-    		StringBuilder sb = new StringBuilder("INSERT INTO ").append(keySpace).append(".").append(columnName).append("(cod_operacion, desc_operacion, tipo_operacion)")
+    		StringBuilder sb = new StringBuilder("INSERT INTO ").append(keySpace).append(".").append(columnName).append("(cod_operation, desc_operation, type_operation)")
     				.append("VALUES ('").append(process.getCod_operacion())
     				.append("', '").append(process.getDesc_operacion())
     				.append("', '").append(process.getTipo_operacion())
